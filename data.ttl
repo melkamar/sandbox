@@ -10,6 +10,6 @@
 
 <https://raw.githubusercontent.com/melkamar/sandbox/master/data.ttl#melkamar> a foaf:Person;
   foaf:familyName "Melka";
-  foaf:myersBriggs "ENTJ";
+  foaf:firstName "Martin";
 .
 
